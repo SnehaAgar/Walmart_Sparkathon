@@ -41,18 +41,6 @@ EcoMart integrates **eco-friendly shopping, real-time analytics, and sustainable
 
 ---
 
-## 📷 Screenshots  
-
-### 🛍️ Eco-Friendly Marketplace  
-![EcoMart Products](./screenshots/ecomart-products.png)  
-
-### 📊 Admin Dashboard  
-![Inventory Dashboard](./screenshots/admin-dashboard.png)  
-
-### 🌱 Sustainable Process  
-![Sustainable Process](./screenshots/sustainable-process.png)  
-
----
 
 ## 💡 Tech Stack  
 - **Frontend**: React.js, TailwindCSS  
@@ -70,4 +58,5 @@ EcoMart integrates **eco-friendly shopping, real-time analytics, and sustainable
 - Designed for **scalability** across Walmart’s retail ecosystem.  
 
 ---
+
 
